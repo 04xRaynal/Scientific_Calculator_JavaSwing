@@ -1,3 +1,7 @@
+/*
+ * Scientific Calculator using Java Swing
+ * @author 04xRaynal
+ */
 package raynal.calculator;
 
 import java.awt.BorderLayout;
