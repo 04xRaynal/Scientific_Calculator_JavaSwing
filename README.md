@@ -5,6 +5,10 @@
 
 ---
 
+Project Demo: [Scientific Calculator](https://replit.com/@MajinVegetaSSJ2/Scientific-Calculator?v=1)
+
+---
+
 ### How to Use:
 
 This calculator does 1 operation at a time only.
